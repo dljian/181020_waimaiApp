@@ -1,0 +1,24 @@
+{
+  "swipeData":[ 
+        {"imgUrl":"../../../static/images/nav/1.jpg","title":"甜品饮品"},
+        {"imgUrl":"../../../static/images/nav/2.jpg","title":"商超便利"},
+        {"imgUrl":"../../../static/images/nav/3.jpg","title":"美食"},
+        {"imgUrl":"../../../static/images/nav/4.jpg","title":"简餐"},
+        {"imgUrl":"../../../static/images/nav/5.jpg","title":"新店特惠"},
+        {"imgUrl":"../../../static/images/nav/6.jpg","title":"准时达"},
+        {"imgUrl":"../../../static/images/nav/7.jpg","title":"预定早餐"},
+        {"imgUrl":"../../../static/images/nav/8.jpg","title":"土豪推荐"},
+        {"imgUrl":"../../../static/images/nav/9.jpg","title":"甜品饮品"},
+        {"imgUrl":"../../../static/images/nav/10.jpg","title":"商超便利"},
+        {"imgUrl":"../../../static/images/nav/11.jpg","title":"美食"},
+        {"imgUrl":"../../../static/images/nav/12.jpg","title":"简餐"},
+        {"imgUrl":"../../../static/images/nav/13.jpg","title":"新店特惠"},
+        {"imgUrl":"../../../static/images/nav/14.jpg","title":"准时达"}
+  ],
+  "shopData":[
+        {"imgUrl":"../../../static/images/shop/1.jpg","brand":"品牌","title":"锄禾日当午...","pledge1":"保","pledge2":"准","pledge3":"票","zan":"3.6","market":"106","courier":"硅谷专送","upToSend":"20","theShippingFee":"5","star":["../../../static/images/shop/11.png","../../../static/images/shop/11.png","../../../static/images/shop/11.png","../../../static/images/shop/12.png","../../../static/images/shop/13.png"]},
+        {"imgUrl":"../../../static/images/shop/2.jpg","brand":"品牌","title":"锄禾日当午...","pledge1":"保","pledge2":"准","pledge3":"票","zan":"4.1","market":"207","courier":"硅谷专送","upToSend":"20","theShippingFee":"5","star":["../../../static/images/shop/11.png","../../../static/images/shop/11.png","../../../static/images/shop/11.png","../../../static/images/shop/11.png","../../../static/images/shop/12.png"]},
+        {"imgUrl":"../../../static/images/shop/3.jpg","brand":"品牌","title":"锄禾日当午...","pledge1":"保","pledge2":"准","pledge3":"票","zan":"3.2","market":"86","courier":"硅谷专送","upToSend":"20","theShippingFee":"5","star":["../../../static/images/shop/11.png","../../../static/images/shop/11.png","../../../static/images/shop/11.png","../../../static/images/shop/12.png","../../../static/images/shop/13.png"]},
+        {"imgUrl":"../../../static/images/shop/4.jpg","brand":"品牌","title":"锄禾日当午...","pledge1":"保","pledge2":"准","pledge3":"票","zan":"3.6","market":"115","courier":"硅谷专送","upToSend":"20","theShippingFee":"5","star":["../../../static/images/shop/11.png","../../../static/images/shop/11.png","../../../static/images/shop/11.png","../../../static/images/shop/12.png","../../../static/images/shop/13.png"]}
+  ]
+}
